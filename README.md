@@ -1,4 +1,4 @@
-**Calculadora suma Android Studio**
+**Calculadora suma Android Studio con Java**
 
 En este proyecto se ha desarrollado una calculadora básica de suma utilizando Android Studio como entorno de desarrollo, 
 Java como lenguaje de programación principal y XML para el diseño de la interfaz gráfica. 
