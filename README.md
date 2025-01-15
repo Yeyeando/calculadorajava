@@ -5,7 +5,11 @@ Java como lenguaje de programación principal y XML para el diseño de la interf
 La calculadora permite realizar sumas simples entre dos números ingresados por el usuario, mostrando el resultado de manera clara e intuitiva 
 y mostrando errores en caso de haberlos para guiar al usuario.
 
-*Descargar Proyecto*
+**Iniciar el proyecto**
+Para ello tenemos que descargar el proyecto 
 
+```bash
+git clone https://github.com/usuario/nombre-repositorio.git
+```
 *Interfaz Usuario*
 
