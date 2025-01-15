@@ -18,5 +18,9 @@ De esta manera lo tendremos descargado en una carpeta local.
 Abrimos Android Studio le damos a  File > New > Project from Version Control. Ponemos la ubicación del proyecto y le damos a clone.
 
 Finalmente, Android Studio descargará y abrirá el proyecto. Le damos a run y con ello compilamos y ponemos en funcionamiento el proyecto.
-*Interfaz Usuario*
 
+**Interfaz Usuario**
+
+La interfaz de usuario es bastante simple
+
+![GUIjava](https://github.com/user-attachments/assets/d1f40795-646c-4772-80f3-879bac9df66c)
