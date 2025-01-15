@@ -9,7 +9,7 @@ y mostrando errores en caso de haberlos para guiar al usuario.
 Para ello tenemos que descargar el proyecto 
 
 ```bash
-git clone https://github.com/usuario/nombre-repositorio.git
+git clone https://github.com/Yeyeando/calculadorajava.git
 ```
 *Interfaz Usuario*
 
