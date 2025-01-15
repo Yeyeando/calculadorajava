@@ -21,6 +21,16 @@ Finalmente, Android Studio descargará y abrirá el proyecto. Le damos a run y c
 
 **Interfaz Usuario**
 
-La interfaz de usuario es bastante simple
+La interfaz de usuario es bastante simple.
 
-![GUIjava](https://github.com/user-attachments/assets/d1f40795-646c-4772-80f3-879bac9df66c)
+![GUIjava](https://github.com/user-attachments/assets/e62dc76d-320c-4fb4-b2f5-6ca363dbf897)
+
+
+Tenemos 2 editText donde ingresaremos los números a sumar y al darle al botón nos hará el calculo.
+
+![GUIjava2](https://github.com/user-attachments/assets/6565a06d-d046-4cc9-837e-dd17760c28da)
+
+
+La app solo permite ingresar números y el punto decimal. En caso de escribir algo mal, se notificará en pantalla al intentar calcular la suma.
+
+![GUIjava3](https://github.com/user-attachments/assets/0d11834c-c670-49c5-b2b9-2dcdbf8f63be)
