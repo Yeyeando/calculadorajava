@@ -6,10 +6,17 @@ La calculadora permite realizar sumas simples entre dos números ingresados por 
 y mostrando errores en caso de haberlos para guiar al usuario.
 
 **Iniciar el proyecto**
-Para ello tenemos que descargar el proyecto 
+
+Para ello tenemos que descargar el proyecto, por lo que abrimos un terminal o una consola y añadimos la URL
 
 ```bash
 git clone https://github.com/Yeyeando/calculadorajava.git
 ```
+
+De esta manera lo tendremos descargado en una carpeta local.
+
+Abrimos Android Studio le damos a  File > New > Project from Version Control. Ponemos la ubicación del proyecto y le damos a clone.
+
+Finalmente, Android Studio descargará y abrirá el proyecto. Le damos a run y con ello compilamos y ponemos en funcionamiento el proyecto.
 *Interfaz Usuario*
 
